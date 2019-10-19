@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5c7448b6fee81e396b163391"},"nombre":"Configuracion","updatedAt":{"$date":"2019-02-27T22:39:45.220Z"},"orden":16,"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163392"},"nombre":"Ofertas","updatedAt":{"$date":"2018-11-06T15:59:16.000Z"},"orden":{"$numberLong":"2"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163393"},"nombre":"Contacto","createdAt":{"$date":"2018-11-01T03:04:32.000Z"},"updatedAt":{"$date":"2019-03-24T14:40:19.783Z"},"orden":2,"visible":false}
+{"_id":{"$oid":"5c7448b6fee81e396b163394"},"nombre":"Destacados","updatedAt":{"$date":"2018-11-06T15:59:16.000Z"},"orden":{"$numberLong":"3"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163395"},"nombre":"Estrenos","updatedAt":{"$date":"2018-11-06T15:59:17.000Z"},"orden":{"$numberLong":"4"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163396"},"nombre":"Software","updatedAt":{"$date":"2018-11-11T06:33:38.000Z"},"orden":{"$numberLong":"3"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163397"},"nombre":"MiniSeries","updatedAt":{"$date":"2019-02-25T20:13:21.729Z"},"orden":6,"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163398"},"nombre":"Animados","updatedAt":{"$date":"2018-11-11T07:55:36.000Z"},"orden":{"$numberLong":"12"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b163399"},"nombre":"Novelas","updatedAt":{"$date":"2018-11-06T15:59:17.000Z"},"orden":{"$numberLong":"8"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339a"},"nombre":"Peliculas","updatedAt":{"$date":"2018-11-06T15:59:17.000Z"},"orden":{"$numberLong":"9"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339b"},"nombre":"Series","updatedAt":{"$date":"2018-11-06T15:59:17.000Z"},"orden":{"$numberLong":"12"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339c"},"nombre":"Show y Reality","updatedAt":{"$date":"2018-11-07T05:27:12.000Z"},"orden":{"$numberLong":"13"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339d"},"nombre":"Series Animadas","updatedAt":{"$date":"2019-02-25T20:13:33.728Z"},"orden":14,"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339e"},"nombre":"Mangas","updatedAt":{"$date":"2019-02-25T20:13:39.644Z"},"orden":15,"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b16339f"},"nombre":"Favoritos","updatedAt":{"$date":"2018-12-28T03:23:38.000Z"},"orden":{"$numberLong":"15"},"visible":true}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a0"},"nombre":"Ayuda","orden":1,"visible":false,"updatedAt":{"$date":"2019-02-25T20:13:46.489Z"}}

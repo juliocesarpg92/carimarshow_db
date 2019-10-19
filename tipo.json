@@ -1,0 +1,61 @@
+{"_id":{"$oid":"5c7448b6fee81e396b1633a1"},"nombre":"Configuracion","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163391"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a2"},"nombre":"Contacto","createdAt":{"$date":"2018-11-01T03:04:32.000Z"},"updatedAt":{"$date":"2019-03-30T18:12:05.483Z"},"orden":0,"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a3"},"nombre":"Android","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163396"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a4"},"nombre":"IOS","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163396"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a5"},"nombre":"Windows","orden":0,"visible":false,"updatedAt":{"$date":"2019-02-27T22:52:44.131Z"},"categoria":{"$oid":"5c7448b6fee81e396b163396"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a6"},"nombre":"Juegos con Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163396"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a7"},"nombre":"Juegos sin Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163396"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a8"},"nombre":"MiniSeries","updatedAt":{"$date":"2018-12-28T10:08:39.000Z"},"orden":{"$numberLong":"1"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163397"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633a9"},"nombre":"Estreno MiniSeries","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163397"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633aa"},"nombre":"Animados","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163398"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ab"},"nombre":"Estreno Animados","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163398"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ac"},"nombre":"Novelas TX","updatedAt":{"$date":"2018-12-15T22:36:54.000Z"},"orden":{"$numberLong":"3"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163399"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ad"},"nombre":"Novelas","updatedAt":{"$date":"2018-12-15T22:38:11.000Z"},"orden":{"$numberLong":"2"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163399"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ae"},"nombre":"Estreno Novelas","updatedAt":{"$date":"2018-12-15T22:36:48.000Z"},"orden":{"$numberLong":"1"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163399"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633af"},"nombre":"Peliculas","updatedAt":{"$date":"2018-12-08T20:42:24.000Z"},"orden":{"$numberLong":"3"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339a"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b0"},"nombre":"Estreno Peliculas","updatedAt":{"$date":"2018-12-08T22:30:43.000Z"},"orden":{"$numberLong":"1"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339a"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b1"},"nombre":"Estreno Peliculas HD","updatedAt":{"$date":"2018-12-08T22:30:46.000Z"},"orden":{"$numberLong":"2"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339a"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b2"},"nombre":"Series","updatedAt":{"$date":"2018-12-08T20:41:59.000Z"},"orden":{"$numberLong":"1"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339b"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b3"},"nombre":"Series TX","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339b"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b4"},"nombre":"Series Espanolas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339b"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b5"},"nombre":"Estreno Series","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339b"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b6"},"nombre":"Estreno Series Espanolas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339b"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b7"},"nombre":"Show y Reality","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339c"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b8"},"nombre":"Show y Reality TX","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339c"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633b9"},"nombre":"Estreno Show y Reality","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339c"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ba"},"nombre":"Series Animadas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339d"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633bb"},"nombre":"Series Animadas TX","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339d"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633bc"},"nombre":"Estreno Series Animadas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339d"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633bd"},"nombre":"Series Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339e"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633be"},"nombre":"Series Mangas TX","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339e"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633bf"},"nombre":"Estreno Series Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339e"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c0"},"nombre":"Estreno Peliculas Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339e"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c1"},"nombre":"Peliculas Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b16339e"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c2"},"nombre":"Novelas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c3"},"nombre":"Series","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c4"},"nombre":"Animados","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c5"},"nombre":"Series Animadas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c6"},"nombre":"Juegos con Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c7"},"nombre":"Juegos sin Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c8"},"nombre":"Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633c9"},"nombre":"Show y Reality","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ca"},"nombre":"Peliculas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163395"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633cb"},"nombre":"Novelas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633cc"},"nombre":"Series","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633cd"},"nombre":"Animados","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633ce"},"nombre":"Series Animadas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633cf"},"nombre":"Juegos con Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d0"},"nombre":"Juegos sin Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d1"},"nombre":"Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d2"},"nombre":"Show y Reality","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d3"},"nombre":"Peliculas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163394"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d4"},"nombre":"Novelas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d5"},"nombre":"Series","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d6"},"nombre":"Animados","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d7"},"nombre":"Series Animadas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d8"},"nombre":"Juegos con Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633d9"},"nombre":"Juegos sin Base de Datos","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633da"},"nombre":"Mangas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633db"},"nombre":"Show y Reality","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633dc"},"nombre":"Peliculas","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b163392"}}
+{"_id":{"$oid":"5c7448b6fee81e396b1633dd"},"nombre":"Ayuda","orden":{"$numberLong":"0"},"visible":true,"categoria":{"$oid":"5c7448b6fee81e396b1633a0"}}
